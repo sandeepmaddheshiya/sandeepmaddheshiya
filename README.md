@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Jarvis**
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **C, C++, HTML, CSS, Python**
+- 💬 Ask me about **C, C++, HTML, CSS,Javascript, Python, Java , Kotlin**
 
 - 📫 How to reach me **internshipsandeep@gmail.com**
 
