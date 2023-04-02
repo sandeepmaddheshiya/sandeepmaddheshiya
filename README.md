@@ -3,7 +3,7 @@
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" alt="Coding' width="400" src="https://imgs.search.brave.com/NKZJdeX1UsKNo7KD8uu4HgCwoaHJg5GrPlm8zLPD4mM/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4z/MGZ1UGwzeDlLdk1C/MlpZVzBrN293SGFF/SyZwaWQ9QXBp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-sandy&label=Profile%20views&color=0e75b6&style=flat" alt="itz-sandy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepmaddheshiya&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepmaddheshiya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sandeep-maddheshiya-661908223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-maddheshiya-661908223" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandeepmaddheshiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-maddheshiya-661908223" height="30" width="40" /></a>
 <a href="https://instagram.com/itz___s_a_n_d_y___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_sandy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/itz_sandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itz_sandy" height="30" width="40" /></a>
 </p>
