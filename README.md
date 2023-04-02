@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepmaddheshiya&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepmaddheshiya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepmaddheshiya" alt="sandeepmaddheshiya" /></a> </p>
-
 - 🔭 I’m currently working on **Women Safety App**
 
 - 🌱 I’m currently learning **Dart & Flutter Development**
