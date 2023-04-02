@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Women Safety App**
 
-- 💬 Ask me about **C, C++, HTML, CSS,Javascript, Bootstrap, Python, Java , Kotlin, Dart & Flutter**
+- 💬 Ask me about **C, C++, HTML, CSS, Javascript, Bootstrap, Python, Java , Kotlin, Dart & Flutter**
 
 - 📫 How to reach me **sandeep.maddheshiyacs20@smslucknow.ac.in**
 
