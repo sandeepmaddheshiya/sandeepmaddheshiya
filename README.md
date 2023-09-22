@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Community Platform**
 
-- 🌱 I’m currently learning **Dart & Flutter Development**
+- 🌱 I’m currently learning **Java FullStack & Flutter Development**
 
 - 👯 I’m looking to collaborate on **Community Platform**
 
-- 💬 Ask me about **C, C++, HTML, CSS, Javascript, Bootstrap, Python, Java , Kotlin, Dart & Flutter**
+- 💬 Ask me about **C, C++, HTML, CSS, Javascript, Bootstrap, MySQL, Python, Java , Kotlin, Dart & Flutter**
 
 - 📫 How to reach me **sandeep.maddheshiyacs20@smslucknow.ac.in**
 
