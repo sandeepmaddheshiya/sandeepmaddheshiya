@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepmaddheshiya&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepmaddheshiya" /> </p>
 
-- 🔭 I’m currently working on **Women Safety App**
+- 🔭 I’m currently working on **Community Platform**
 
 - 🌱 I’m currently learning **Dart & Flutter Development**
 
-- 👯 I’m looking to collaborate on **Women Safety App**
+- 👯 I’m looking to collaborate on **Community Platform**
 
 - 💬 Ask me about **C, C++, HTML, CSS, Javascript, Bootstrap, Python, Java , Kotlin, Dart & Flutter**
 
