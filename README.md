@@ -31,5 +31,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepmaddheshiya&" alt="sandeepmaddheshiya" /></p>
 
-<h3  align="left">Holopin Board</h3>
-![An image of @sandeepmaddheshiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandeepmaddheshiya)(https://holopin.io/@sandeepmaddheshiya)
+<h3 align="left">Holopin Board</h3>
+<p align="center">
+  <a href="https://holopin.io/@sandeepmaddheshiya">
+    <img src="https://holopin.me/sandeepmaddheshiya" alt="An image of @sandeepmaddheshiya's Holopin badges, which is a link to view their full Holopin profile">
+  </a>
+</p>
